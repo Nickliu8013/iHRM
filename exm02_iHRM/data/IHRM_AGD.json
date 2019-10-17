@@ -1,0 +1,16 @@
+{
+  "ihrm_add_succeed": {
+    "add_username": "城管",
+    "add_mobile": "13145205201",
+    "add_timeOfEntry": "2019-10-07",
+    "add_formOfEmployment": 1,
+    "add_workNumber": "13145205201",
+    "add_departmentName": "查水表",
+    "add_departmentId": "1066238836272664576",
+    "add_correctionTime": "2022-10-05T16:00:00.000Z",
+
+    "code": 10000,
+    "success": true,
+    "message": "操作成功！"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "ihrm_succeed": {
+    "mobile": "13800000002",
+    "password": "123456",
+    "success": true,
+    "code": 10000,
+    "message": "操作成功！"
+  },
+  "ihrm_id_error": {
+    "mobile": "13900000002",
+    "password": "123456",
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  "ihrm_passwd_error": {
+    "mobile": "13800000002",
+    "password": "error",
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  "ihrm_null": {
+    "success": false,
+    "code": 99999,
+    "message": "系统繁忙"
+  },
+  "ihrm_id_null": {
+    "mobile": "",
+    "password": "123456",
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  "ihrm_passwd_null": {
+    "mobile": "13800000002",
+    "password": "",
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  "ihrm_null_id_null":{
+    "mobile": " 13800000002 ",
+    "password": "123456",
+    "success": true,
+    "code": 1000,
+    "message": "操作成功！"
+  }
+}

@@ -1,0 +1,30 @@
+2019-10-16 20:38:39,733 INFO [root] [MepApi.py(MepAUGD:8)] - 执行员工增删改查操作
+2019-10-16 20:38:39,798 INFO [root] [User_API.py(login:11)] - 执行登录操作
+2019-10-16 20:38:39,803 DEBUG [urllib3.connectionpool] [connectionpool.py(_new_conn:206)] - Starting new HTTP connection (1): 182.92.81.159:80
+2019-10-16 20:38:39,887 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://182.92.81.159:80 "POST /api/sys/login HTTP/1.1" 200 None
+2019-10-16 20:38:39,888 INFO [root] [User_API.py(login:11)] - 执行登录操作
+2019-10-16 20:38:39,891 DEBUG [urllib3.connectionpool] [connectionpool.py(_new_conn:206)] - Starting new HTTP connection (1): 182.92.81.159:80
+2019-10-16 20:38:39,972 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://182.92.81.159:80 "POST /api/sys/login HTTP/1.1" 200 None
+2019-10-16 20:38:41,620 INFO [root] [User_API.py(login:11)] - 执行登录操作
+2019-10-16 20:38:41,623 DEBUG [urllib3.connectionpool] [connectionpool.py(_new_conn:206)] - Starting new HTTP connection (1): 182.92.81.159:80
+2019-10-16 20:38:41,703 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://182.92.81.159:80 "POST /api/sys/login HTTP/1.1" 200 None
+2019-10-16 20:38:41,704 INFO [root] [User_API.py(login:11)] - 执行登录操作
+2019-10-16 20:38:41,709 DEBUG [urllib3.connectionpool] [connectionpool.py(_new_conn:206)] - Starting new HTTP connection (1): 182.92.81.159:80
+2019-10-16 20:38:41,793 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://182.92.81.159:80 "POST /api/sys/login HTTP/1.1" 200 None
+2019-10-16 20:38:41,796 INFO [root] [User_API.py(login:11)] - 执行登录操作
+2019-10-16 20:38:41,799 DEBUG [urllib3.connectionpool] [connectionpool.py(_new_conn:206)] - Starting new HTTP connection (1): 182.92.81.159:80
+2019-10-16 20:38:41,884 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://182.92.81.159:80 "POST /api/sys/login HTTP/1.1" 200 None
+2019-10-16 20:38:41,886 INFO [root] [User_API.py(login:11)] - 执行登录操作
+2019-10-16 20:38:41,889 DEBUG [urllib3.connectionpool] [connectionpool.py(_new_conn:206)] - Starting new HTTP connection (1): 182.92.81.159:80
+2019-10-16 20:38:41,971 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://182.92.81.159:80 "POST /api/sys/login HTTP/1.1" 200 None
+2019-10-16 20:38:41,973 INFO [root] [User_API.py(login:11)] - 执行登录操作
+2019-10-16 20:38:41,975 DEBUG [urllib3.connectionpool] [connectionpool.py(_new_conn:206)] - Starting new HTTP connection (1): 182.92.81.159:80
+2019-10-16 20:38:42,064 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://182.92.81.159:80 "POST /api/sys/login HTTP/1.1" 200 None
+2019-10-16 20:38:42,065 INFO [root] [User_API.py(login:11)] - 执行登录操作
+2019-10-16 20:38:42,068 DEBUG [urllib3.connectionpool] [connectionpool.py(_new_conn:206)] - Starting new HTTP connection (1): 182.92.81.159:80
+2019-10-16 20:38:42,148 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://182.92.81.159:80 "POST /api/sys/login HTTP/1.1" 200 None
+2019-10-16 20:38:42,149 INFO [root] [TestiHRMLogin.py(test_login_correct:54)] - 执行登录操作
+2019-10-16 20:38:42,149 INFO [root] [User_API.py(login:11)] - 执行登录操作
+2019-10-16 20:38:42,151 DEBUG [urllib3.connectionpool] [connectionpool.py(_new_conn:206)] - Starting new HTTP connection (1): 182.92.81.159:80
+2019-10-16 20:38:42,229 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:396)] - http://182.92.81.159:80 "POST /api/sys/login HTTP/1.1" 200 None
+2019-10-16 20:38:42,229 INFO [root] [TestiHRMLogin.py(test_login_correct:54)] - 执行登录操作
